@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.goal-item{
+  margin-top: 2rem;
+  background-color: #fd2155;
+  padding: 1rem;
+  color: white;
+  /* font-weight: bold; */
+  font-size: 1.5rem;
+  text-shadow: 3px 3px 10px #791129;
+}
